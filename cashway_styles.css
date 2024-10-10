@@ -1,0 +1,68 @@
+/* Estilo geral da lista */
+.list {
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .list .pan {
+    background-color: rgba(162, 151, 151, 0.4);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    color: #222;
+    font-size: 16px;
+  }
+  
+  .list .pan .label {
+    font-weight: bold;
+    color: #02203CFF;
+  }
+  
+  .list .pan .copy-icon {
+    cursor: pointer;
+    margin-left: 8px;
+  }
+  
+  .list .name {
+    background-color: #f9f9f9;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  .list .name .label {
+    font-weight: bold;
+    color: #02203CFF;
+  }
+  
+  .list .expiration-date {
+    background-color: rgba(200, 200, 200, 0.3);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  .list .expiration-date .label {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .list .security-code {
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+    color: #333;
+  }
+  
+  .list .security-code .label {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .list .cvv_expiration_time {
+    font-size: 14px;
+    color: #666;
+  }
